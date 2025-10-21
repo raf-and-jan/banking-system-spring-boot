@@ -1,4 +1,4 @@
-package com.janandraf.bankingsystem.banking_system_spring_booth;
+package com.janandraf.banking_system_spring_booth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
